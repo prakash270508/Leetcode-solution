@@ -26,7 +26,6 @@ int pivotIndex(int* nums,  int n){
                     right_sum-=nums[pivot] ;
                 }
             }
-
         }
         return -1;
 
